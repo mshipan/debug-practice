@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+    flex-direction: column;
+}
+
+.btn{
+    padding: 10px;
+    cursor: pointer;
+}
